@@ -1,0 +1,9 @@
+{
+	"name": "TEMPLATE BABY",
+	"version_number": "1.0.0",
+	"description": "THIS DESCRIBES A MOD",
+	"website_url": "",
+	"dependencies": [
+		"LavaGang-MelonLoader-0.7.0"
+	]
+}
